@@ -1,2 +1,2 @@
 # mod_category_tags
-Joomla module display list tags articles in select category as articles blog
+Joomla module show list tags articles in select category for open display articles blog
